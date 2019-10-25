@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sfsu-csc667-fall19/lab4-hunter-graves/static/css/main.c328bcf2.chunk.css",
+    "main.js": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/main.de736817.chunk.js",
+    "main.js.map": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/main.de736817.chunk.js.map",
+    "runtime-main.js": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/runtime-main.021d6528.js",
+    "runtime-main.js.map": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/runtime-main.021d6528.js.map",
+    "static/js/2.1ab88e41.chunk.js": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/2.1ab88e41.chunk.js",
+    "static/js/2.1ab88e41.chunk.js.map": "/sfsu-csc667-fall19/lab4-hunter-graves/static/js/2.1ab88e41.chunk.js.map",
+    "index.html": "/sfsu-csc667-fall19/lab4-hunter-graves/index.html",
+    "precache-manifest.6d3b3a6f50bd0906c03d1fc66148d8a1.js": "/sfsu-csc667-fall19/lab4-hunter-graves/precache-manifest.6d3b3a6f50bd0906c03d1fc66148d8a1.js",
+    "service-worker.js": "/sfsu-csc667-fall19/lab4-hunter-graves/service-worker.js",
+    "static/css/main.c328bcf2.chunk.css.map": "/sfsu-csc667-fall19/lab4-hunter-graves/static/css/main.c328bcf2.chunk.css.map",
+    "static/media/logo.svg": "/sfsu-csc667-fall19/lab4-hunter-graves/static/media/logo.25bf045c.svg"
+  }
+}
